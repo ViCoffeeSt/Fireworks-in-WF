@@ -1,0 +1,46 @@
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Fireworks in WF.exe.config
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Fireworks in WF.exe
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Fireworks in WF.pdb
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks_in_WF.Form1.resources
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks_in_WF.Properties.Resources.resources
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks in WF.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks in WF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks in WF.exe
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks in WF.pdb
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.Interop.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.Validation.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.Asio.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.Core.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.Midi.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.Wasapi.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.WinForms.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.WinMM.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\System.Security.AccessControl.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.Interop.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.VisualStudio.Validation.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\NAudio.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\System.Security.AccessControl.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\bin\Debug\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks in WF.csproj.CopyComplete
+C:\Users\user\source\repos\Fireworks in WF\Fireworks in WF\obj\Debug\Fireworks in WF.csproj.AssemblyReference.cache
